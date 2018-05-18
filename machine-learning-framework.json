@@ -1,0 +1,5 @@
+{
+    "url": "my-netlify-subdomain.netlify.com/machine-learning-framework.json",
+    "objectives": ["Manually select test/train/validation", "Use cross_validation library", "Disambiguate parameters and hyper parameters", "Use grid search to explore hyper parameters", "Compute AUC for a set of results"]
+    "keywords": ["Machine Learning", "Data Science", "AI", "Artificial Intelligence", "Python"]
+}
